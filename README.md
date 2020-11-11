@@ -22,6 +22,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHUb" width="26px" src="https://github.githubassets.com/images/icons/emoji/octocat.png" />
 <br />
+<br />
 
 ![](https://komarev.com/ghpvc/?username=NaziaToma&label=PROFILE+VIEWS)
 
