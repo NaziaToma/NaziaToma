@@ -23,7 +23,6 @@
 <img align="left" alt="GitHUb" width="26px" src="https://github.githubassets.com/images/icons/emoji/octocat.png" />
 <br />
 
-![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
 ![](https://komarev.com/ghpvc/?username=NaziaToma&label=PROFILE+VIEWS)
 
 
