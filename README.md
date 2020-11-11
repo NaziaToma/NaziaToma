@@ -1,4 +1,4 @@
-### Henlo, I'm Nazia👋🏻👩‍💻
+### Hi,I'm Nazia👋🏻👩‍💻
 
 
 - 🔭 I’m currently working on Android App, Web Development
