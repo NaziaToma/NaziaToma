@@ -1,7 +1,7 @@
-### Hi,I'm Nazia👋🏻👩‍💻
+### Hi, I'm Nazia👋🏻👩‍💻
 
 
-- 🔭 I’m currently working on Android App, Web Development
+- 🔭 I’m currently working on Android App, Web Development projects
 - 🌱 I’m currently learning Flutter & Dart
 - 📫 How to reach me: nazia.tabassum@northsouth.edu
 
