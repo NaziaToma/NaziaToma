@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Android App, Web Development projects
-- 🌱 I’m currently learning Flutter & Dart
 - 📫 How to reach me: nazia.tabassum@northsouth.edu
 
 [![Nazia's github stats](https://github-readme-stats.vercel.app/api?username=NaziaToma)](https://github.com/anuraghazra/github-readme-stats)
