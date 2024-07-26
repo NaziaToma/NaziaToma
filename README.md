@@ -1,8 +1,6 @@
 ### Hi, I'm Nazia👋🏻👩‍💻
 
-
-- 🔭 I’m currently working on Machine Learning & Web Development projects
-- 📫 How to reach me: nazia.tabassum@northsouth.edu
+- 📫 How to reach me: ntabassum.toma@gmail.com
 
 [![Nazia's github stats](https://github-readme-stats.vercel.app/api?username=NaziaToma)](https://github.com/anuraghazra/github-readme-stats)
 
